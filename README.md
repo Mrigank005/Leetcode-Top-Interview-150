@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 2
-- **In Progress:** 148
-- **Last Updated:** January 9, 2026
+- **Solved:** 3
+- **In Progress:** 147
+- **Last Updated:** January 10, 2026
 
 ## 🗂️ Repository Structure
 
@@ -62,6 +62,7 @@ The Top Interview 150 covers these key topics:
 
 | # | Problem | Difficulty | C++ | Python | Topics |
 |---|---------|------------|-----|--------|--------|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](remove_duplicates_from_sorted_array.cpp) | [✓](remove_duplicates_from_sorted_array.py) | Array, Two Pointers |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](remove_element.cpp) | [✓](remove_element.py) | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [✓](merge_sorted_array.cpp) | [✓](merge_sorted_array.py) | Array, Two Pointers |
 
