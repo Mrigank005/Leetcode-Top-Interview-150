@@ -1,7 +1,7 @@
 /*
 274. H-Index
 
-Solution 1: Sort in descending order
+Solution: Sort in descending order
 Time Complexity: O(n log n)
 Space Complexity: O(1) or O(n) depending on sort implementation
 */
