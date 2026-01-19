@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 10
-- **In Progress:** 140
-- **Last Updated:** January 19, 2026
+- **Solved:** 11
+- **In Progress:** 139
+- **Last Updated:** January 20, 2026
 
 ## 🗂️ Repository Structure
 
@@ -72,6 +72,7 @@ The Top Interview 150 covers these key topics:
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [✓](best_time_to_buy_and_sell_stock_ii.cpp) | [✓](best_time_to_buy_and_sell_stock_ii.py) | Array, Greedy, Dynamic Programming |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [✓](majority_element.cpp) | [✓](majority_element.py) | Array, Hash Table, Divide and Conquer |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [✓](rotate_array.cpp) | [✓](rotate_array.py) | Array, Math, Two Pointers |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
 
 ## 🛠️ Languages & Tools
 
