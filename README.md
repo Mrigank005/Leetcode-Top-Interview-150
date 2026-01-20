@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 11
-- **In Progress:** 139
-- **Last Updated:** January 20, 2026
+- **Solved:** 12
+- **In Progress:** 138
+- **Last Updated:** January 21, 2026
 
 ## 🗂️ Repository Structure
 
@@ -73,6 +73,7 @@ The Top Interview 150 covers these key topics:
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [✓](majority_element.cpp) | [✓](majority_element.py) | Array, Hash Table, Divide and Conquer |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [✓](rotate_array.cpp) | [✓](rotate_array.py) | Array, Math, Two Pointers |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [✓](insert_delete_getrandom_o1.cpp) | [✓](insert_delete_getrandom_o1.py) | Array, Hash Table, Design |
 
 ## 🛠️ Languages & Tools
 
