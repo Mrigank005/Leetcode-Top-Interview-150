@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 13
-- **In Progress:** 137
-- **Last Updated:** January 22, 2026
+- **Solved:** 15
+- **In Progress:** 135
+- **Last Updated:** January 25, 2026
 
 ## 🗂️ Repository Structure
 
@@ -70,6 +70,8 @@ The Top Interview 150 covers these key topics:
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [✓](merge_sorted_array.cpp) | [✓](merge_sorted_array.py) | Array, Two Pointers |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [✓](best_time_to_buy_and_sell_stock.cpp) | [✓](best_time_to_buy_and_sell_stock.py) | Array, Dynamic Programming |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [✓](best_time_to_buy_and_sell_stock_ii.cpp) | [✓](best_time_to_buy_and_sell_stock_ii.py) | Array, Greedy, Dynamic Programming |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [✓](gas_station.cpp) | [✓](gas_station.py) | Array, Greedy |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | [✓](candy.cpp) | [✓](candy.py) | Array, Greedy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [✓](majority_element.cpp) | [✓](majority_element.py) | Array, Hash Table, Divide and Conquer |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [✓](rotate_array.cpp) | [✓](rotate_array.py) | Array, Math, Two Pointers |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [✓](product_of_array_except_self.cpp) | [✓](product_of_array_except_self.py) | Array, Prefix Sum |
