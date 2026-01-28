@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 17
-- **In Progress:** 133
-- **Last Updated:** January 27, 2026
+- **Solved:** 18
+- **In Progress:** 132
+- **Last Updated:** January 28, 2026
 
 ## 🗂️ Repository Structure
 
@@ -62,6 +62,7 @@ The Top Interview 150 covers these key topics:
 
 | # | Problem | Difficulty | C++ | Python | Topics |
 |---|---------|------------|-----|--------|--------|
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](integer_to_roman.cpp) | [✓](integer_to_roman.py) | Hash Table, Math, String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](roman_to_integer.cpp) | [✓](roman_to_integer.py) | Hash Table, Math, String |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](remove_duplicates_from_sorted_array.cpp) | [✓](remove_duplicates_from_sorted_array.py) | Array, Two Pointers |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](remove_element.cpp) | [✓](remove_element.py) | Array, Two Pointers |
