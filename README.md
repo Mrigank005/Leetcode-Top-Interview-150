@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 19
-- **In Progress:** 131
-- **Last Updated:** January 29, 2026
+- **Solved:** 20
+- **In Progress:** 130
+- **Last Updated:** January 30, 2026
 
 ## 🗂️ Repository Structure
 
@@ -64,6 +64,7 @@ The Top Interview 150 covers these key topics:
 |---|---------|------------|-----|--------|--------|
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](integer_to_roman.cpp) | [✓](integer_to_roman.py) | Hash Table, Math, String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](roman_to_integer.cpp) | [✓](roman_to_integer.py) | Hash Table, Math, String |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [✓](longest_common_prefix.cpp) | [✓](longest_common_prefix.py) | String |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](remove_duplicates_from_sorted_array.cpp) | [✓](remove_duplicates_from_sorted_array.py) | Array, Two Pointers |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](remove_element.cpp) | [✓](remove_element.py) | Array, Two Pointers |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [✓](trapping_rain_water.cpp) | [✓](trapping_rain_water.py) | Array, Two Pointers, Dynamic Programming, Stack |
