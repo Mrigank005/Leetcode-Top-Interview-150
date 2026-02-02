@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 21
-- **In Progress:** 129
-- **Last Updated:** January 31, 2026
+- **Solved:** 23
+- **In Progress:** 127
+- **Last Updated:** February 2, 2026
 
 ## 🗂️ Repository Structure
 
@@ -62,11 +62,13 @@ The Top Interview 150 covers these key topics:
 
 | # | Problem | Difficulty | C++ | Python | Topics |
 |---|---------|------------|-----|--------|--------|
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [✓](zigzag_conversion.cpp) | [✓](zigzag_conversion.py) | String |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](integer_to_roman.cpp) | [✓](integer_to_roman.py) | Hash Table, Math, String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](roman_to_integer.cpp) | [✓](roman_to_integer.py) | Hash Table, Math, String |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [✓](longest_common_prefix.cpp) | [✓](longest_common_prefix.py) | String |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](remove_duplicates_from_sorted_array.cpp) | [✓](remove_duplicates_from_sorted_array.py) | Array, Two Pointers |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](remove_element.cpp) | [✓](remove_element.py) | Array, Two Pointers |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [✓](find_the_index_of_the_first_occurrence_in_a_string.cpp) | [✓](find_the_index_of_the_first_occurrence_in_a_string.py) | Two Pointers, String, String Matching |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [✓](trapping_rain_water.cpp) | [✓](trapping_rain_water.py) | Array, Two Pointers, Dynamic Programming, Stack |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [✓](jump_game_ii.cpp) | [✓](jump_game_ii.py) | Array, Greedy, Dynamic Programming |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [✓](jump_game.cpp) | [✓](jump_game.py) | Array, Greedy, Dynamic Programming |
