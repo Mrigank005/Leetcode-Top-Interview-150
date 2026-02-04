@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 24
-- **In Progress:** 126
-- **Last Updated:** February 3, 2026
+- **Solved:** 25
+- **In Progress:** 125
+- **Last Updated:** February 4, 2026
 
 ## 🗂️ Repository Structure
 
@@ -78,6 +78,7 @@ The Top Interview 150 covers these key topics:
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [✓](merge_sorted_array.cpp) | [✓](merge_sorted_array.py) | Array, Two Pointers |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [✓](best_time_to_buy_and_sell_stock.cpp) | [✓](best_time_to_buy_and_sell_stock.py) | Array, Dynamic Programming |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [✓](best_time_to_buy_and_sell_stock_ii.cpp) | [✓](best_time_to_buy_and_sell_stock_ii.py) | Array, Greedy, Dynamic Programming |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [✓](valid_palindrome.cpp) | [✓](valid_palindrome.py) | Two Pointers, String |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [✓](gas_station.cpp) | [✓](gas_station.py) | Array, Greedy |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | [✓](candy.cpp) | [✓](candy.py) | Array, Greedy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [✓](reverse_words_in_a_string.cpp) | [✓](reverse_words_in_a_string.py) | Two Pointers, String |
