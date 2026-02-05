@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 25
-- **In Progress:** 125
-- **Last Updated:** February 4, 2026
+- **Solved:** 26
+- **In Progress:** 124
+- **Last Updated:** February 5, 2026
 
 ## 🗂️ Repository Structure
 
@@ -87,6 +87,7 @@ The Top Interview 150 covers these key topics:
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [✓](product_of_array_except_self.cpp) | [✓](product_of_array_except_self.py) | Array, Prefix Sum |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [✓](insert_delete_getrandom_o1.cpp) | [✓](insert_delete_getrandom_o1.py) | Array, Hash Table, Design |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [✓](is_subsequence.cpp) | [✓](is_subsequence.py) | Two Pointers, String, Dynamic Programming |
 
 ## 🛠️ Languages & Tools
 
