@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 26
-- **In Progress:** 124
-- **Last Updated:** February 5, 2026
+- **Solved:** 27
+- **In Progress:** 123
+- **Last Updated:** February 6, 2026
 
 ## 🗂️ Repository Structure
 
@@ -82,6 +82,7 @@ The Top Interview 150 covers these key topics:
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [✓](gas_station.cpp) | [✓](gas_station.py) | Array, Greedy |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | [✓](candy.cpp) | [✓](candy.py) | Array, Greedy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [✓](reverse_words_in_a_string.cpp) | [✓](reverse_words_in_a_string.py) | Two Pointers, String |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [✓](two_sum_ii_input_array_is_sorted.cpp) | [✓](two_sum_ii_input_array_is_sorted.py) | Array, Two Pointers, Binary Search |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [✓](majority_element.cpp) | [✓](majority_element.py) | Array, Hash Table, Divide and Conquer |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [✓](rotate_array.cpp) | [✓](rotate_array.py) | Array, Math, Two Pointers |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [✓](product_of_array_except_self.cpp) | [✓](product_of_array_except_self.py) | Array, Prefix Sum |
