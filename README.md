@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 27
-- **In Progress:** 123
-- **Last Updated:** February 6, 2026
+- **Solved:** 28
+- **In Progress:** 122
+- **Last Updated:** February 7, 2026
 
 ## 🗂️ Repository Structure
 
@@ -63,6 +63,7 @@ The Top Interview 150 covers these key topics:
 | # | Problem | Difficulty | C++ | Python | Topics |
 |---|---------|------------|-----|--------|--------|
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [✓](zigzag_conversion.cpp) | [✓](zigzag_conversion.py) | String |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [✓](container_with_most_water.cpp) | [✓](container_with_most_water.py) | Array, Two Pointers, Greedy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](integer_to_roman.cpp) | [✓](integer_to_roman.py) | Hash Table, Math, String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](roman_to_integer.cpp) | [✓](roman_to_integer.py) | Hash Table, Math, String |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [✓](longest_common_prefix.cpp) | [✓](longest_common_prefix.py) | String |
