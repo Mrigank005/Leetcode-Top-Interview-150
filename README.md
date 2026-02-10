@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 28
-- **In Progress:** 122
-- **Last Updated:** February 7, 2026
+- **Solved:** 30
+- **In Progress:** 120
+- **Last Updated:** February 10, 2026
 
 ## 🗂️ Repository Structure
 
@@ -67,6 +67,7 @@ The Top Interview 150 covers these key topics:
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](integer_to_roman.cpp) | [✓](integer_to_roman.py) | Hash Table, Math, String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](roman_to_integer.cpp) | [✓](roman_to_integer.py) | Hash Table, Math, String |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [✓](longest_common_prefix.cpp) | [✓](longest_common_prefix.py) | String |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [✓](three_sum.cpp) | [✓](three_sum.py) | Array, Two Pointers, Sorting |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](remove_duplicates_from_sorted_array.cpp) | [✓](remove_duplicates_from_sorted_array.py) | Array, Two Pointers |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](remove_element.cpp) | [✓](remove_element.py) | Array, Two Pointers |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [✓](find_the_index_of_the_first_occurrence_in_a_string.cpp) | [✓](find_the_index_of_the_first_occurrence_in_a_string.py) | Two Pointers, String, String Matching |
@@ -86,6 +87,7 @@ The Top Interview 150 covers these key topics:
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [✓](two_sum_ii_input_array_is_sorted.cpp) | [✓](two_sum_ii_input_array_is_sorted.py) | Array, Two Pointers, Binary Search |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [✓](majority_element.cpp) | [✓](majority_element.py) | Array, Hash Table, Divide and Conquer |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [✓](rotate_array.cpp) | [✓](rotate_array.py) | Array, Math, Two Pointers |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [✓](minimum_size_subarray_sum.cpp) | [✓](minimum_size_subarray_sum.py) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [✓](product_of_array_except_self.cpp) | [✓](product_of_array_except_self.py) | Array, Prefix Sum |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [✓](insert_delete_getrandom_o1.cpp) | [✓](insert_delete_getrandom_o1.py) | Array, Hash Table, Design |
