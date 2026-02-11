@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 30
-- **In Progress:** 120
-- **Last Updated:** February 10, 2026
+- **Solved:** 31
+- **In Progress:** 119
+- **Last Updated:** February 11, 2026
 
 ## 🗂️ Repository Structure
 
@@ -62,6 +62,7 @@ The Top Interview 150 covers these key topics:
 
 | # | Problem | Difficulty | C++ | Python | Topics |
 |---|---------|------------|-----|--------|--------|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [✓](longest_substring_without_repeating_characters.cpp) | [✓](longest_substring_without_repeating_characters.py) | Hash Table, String, Sliding Window |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [✓](zigzag_conversion.cpp) | [✓](zigzag_conversion.py) | String |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [✓](container_with_most_water.cpp) | [✓](container_with_most_water.py) | Array, Two Pointers, Greedy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](integer_to_roman.cpp) | [✓](integer_to_roman.py) | Hash Table, Math, String |
