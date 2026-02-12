@@ -21,7 +21,6 @@ public:
         int maxLength = 0;
         
         for (int right = 0; right < s.length(); right++) {
-            // Shrink window from left while duplicate exists
             while (charSet.find(s[right]) != charSet.end()) {
                 charSet.erase(s[left]);
                 left++;
