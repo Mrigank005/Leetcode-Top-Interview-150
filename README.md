@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 32
-- **In Progress:** 118
-- **Last Updated:** February 12, 2026
+- **Solved:** 33
+- **In Progress:** 117
+- **Last Updated:** February 13, 2026
 
 ## 🗂️ Repository Structure
 
@@ -78,6 +78,7 @@ The Top Interview 150 covers these key topics:
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [✓](jump_game.cpp) | [✓](jump_game.py) | Array, Greedy, Dynamic Programming |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [✓](length_of_last_word.cpp) | [✓](length_of_last_word.py) | String |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [✓](text_justification.cpp) | [✓](text_justification.py) | Array, String, Simulation |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [✓](minimum_window_substring.cpp) | [✓](minimum_window_substring.py) | Hash Table, String, Sliding Window |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [✓](remove_duplicates_from_sorted_array_ii.cpp) | [✓](remove_duplicates_from_sorted_array_ii.py) | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [✓](merge_sorted_array.cpp) | [✓](merge_sorted_array.py) | Array, Two Pointers |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [✓](best_time_to_buy_and_sell_stock.cpp) | [✓](best_time_to_buy_and_sell_stock.py) | Array, Dynamic Programming |
