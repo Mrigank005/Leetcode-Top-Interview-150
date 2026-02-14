@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 33
-- **In Progress:** 117
-- **Last Updated:** February 13, 2026
+- **Solved:** 34
+- **In Progress:** 116
+- **Last Updated:** February 14, 2026
 
 ## 🗂️ Repository Structure
 
@@ -73,6 +73,7 @@ The Top Interview 150 covers these key topics:
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](remove_element.cpp) | [✓](remove_element.py) | Array, Two Pointers |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [✓](find_the_index_of_the_first_occurrence_in_a_string.cpp) | [✓](find_the_index_of_the_first_occurrence_in_a_string.py) | Two Pointers, String, String Matching |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [✓](substring_with_concatenation_of_all_words.cpp) | [✓](substring_with_concatenation_of_all_words.py) | Hash Table, String, Sliding Window |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [✓](valid_sudoku.cpp) | [✓](valid_sudoku.py) | Array, Hash Table, Matrix |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [✓](trapping_rain_water.cpp) | [✓](trapping_rain_water.py) | Array, Two Pointers, Dynamic Programming, Stack |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [✓](jump_game_ii.cpp) | [✓](jump_game_ii.py) | Array, Greedy, Dynamic Programming |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [✓](jump_game.cpp) | [✓](jump_game.py) | Array, Greedy, Dynamic Programming |
