@@ -15,8 +15,8 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 36
-- **In Progress:** 114
+- **Solved:** 37
+- **In Progress:** 113
 - **Last Updated:** February 17, 2026
 
 ## 🗂️ Repository Structure
@@ -81,6 +81,7 @@ The Top Interview 150 covers these key topics:
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [✓](jump_game.cpp) | [✓](jump_game.py) | Array, Greedy, Dynamic Programming |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [✓](length_of_last_word.cpp) | [✓](length_of_last_word.py) | String |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [✓](text_justification.cpp) | [✓](text_justification.py) | Array, String, Simulation |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [✓](set_matrix_zeroes.cpp) | [✓](set_matrix_zeroes.py) | Array, Hash Table, Matrix |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [✓](minimum_window_substring.cpp) | [✓](minimum_window_substring.py) | Hash Table, String, Sliding Window |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [✓](remove_duplicates_from_sorted_array_ii.cpp) | [✓](remove_duplicates_from_sorted_array_ii.py) | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [✓](merge_sorted_array.cpp) | [✓](merge_sorted_array.py) | Array, Two Pointers |
