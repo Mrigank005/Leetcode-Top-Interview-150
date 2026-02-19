@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 38
-- **In Progress:** 112
-- **Last Updated:** February 18, 2026
+- **Solved:** 39
+- **In Progress:** 111
+- **Last Updated:** February 19, 2026
 
 ## 🗂️ Repository Structure
 
@@ -99,6 +99,7 @@ The Top Interview 150 covers these key topics:
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [✓](game_of_life.cpp) | [✓](game_of_life.py) | Array, Matrix, Simulation |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [✓](insert_delete_getrandom_o1.cpp) | [✓](insert_delete_getrandom_o1.py) | Array, Hash Table, Design |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [✓](ransom_note.cpp) | [✓](ransom_note.py) | Hash Table, String, Counting |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [✓](is_subsequence.cpp) | [✓](is_subsequence.py) | Two Pointers, String, Dynamic Programming |
 
 ## 🛠️ Languages & Tools
