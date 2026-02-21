@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 39
-- **In Progress:** 111
-- **Last Updated:** February 19, 2026
+- **Solved:** 40
+- **In Progress:** 110
+- **Last Updated:** February 22, 2026
 
 ## 🗂️ Repository Structure
 
@@ -94,6 +94,7 @@ The Top Interview 150 covers these key topics:
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [✓](two_sum_ii_input_array_is_sorted.cpp) | [✓](two_sum_ii_input_array_is_sorted.py) | Array, Two Pointers, Binary Search |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [✓](majority_element.cpp) | [✓](majority_element.py) | Array, Hash Table, Divide and Conquer |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [✓](rotate_array.cpp) | [✓](rotate_array.py) | Array, Math, Two Pointers |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [✓](isomorphic_strings.cpp) | [✓](isomorphic_strings.py) | Hash Table, String |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [✓](minimum_size_subarray_sum.cpp) | [✓](minimum_size_subarray_sum.py) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [✓](product_of_array_except_self.cpp) | [✓](product_of_array_except_self.py) | Array, Prefix Sum |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
