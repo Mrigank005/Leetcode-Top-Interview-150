@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 41
-- **In Progress:** 109
-- **Last Updated:** February 22, 2026
+- **Solved:** 42
+- **In Progress:** 108
+- **Last Updated:** February 23, 2026
 
 ## 🗂️ Repository Structure
 
@@ -97,6 +97,7 @@ The Top Interview 150 covers these key topics:
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [✓](isomorphic_strings.cpp) | [✓](isomorphic_strings.py) | Hash Table, String |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [✓](minimum_size_subarray_sum.cpp) | [✓](minimum_size_subarray_sum.py) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [✓](product_of_array_except_self.cpp) | [✓](product_of_array_except_self.py) | Array, Prefix Sum |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [✓](valid_anagram.cpp) | [✓](valid_anagram.py) | Hash Table, String, Sorting |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](h_index.cpp) | [✓](h_index.py) | Array, Sorting, Counting Sort |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [✓](game_of_life.cpp) | [✓](game_of_life.py) | Array, Matrix, Simulation |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [✓](word_pattern.cpp) | [✓](word_pattern.py) | Hash Table, String |
