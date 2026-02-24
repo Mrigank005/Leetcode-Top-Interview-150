@@ -15,9 +15,9 @@ This repository contains my solutions to the [LeetCode Top Interview 150](https:
 ## 🎯 Progress
 
 - **Total Problems:** 150
-- **Solved:** 42
-- **In Progress:** 108
-- **Last Updated:** February 23, 2026
+- **Solved:** 43
+- **In Progress:** 107
+- **Last Updated:** February 24, 2026
 
 ## 🗂️ Repository Structure
 
@@ -77,6 +77,7 @@ The Top Interview 150 covers these key topics:
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [✓](trapping_rain_water.cpp) | [✓](trapping_rain_water.py) | Array, Two Pointers, Dynamic Programming, Stack |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [✓](jump_game_ii.cpp) | [✓](jump_game_ii.py) | Array, Greedy, Dynamic Programming |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [✓](rotate_image.cpp) | [✓](rotate_image.py) | Array, Math, Matrix |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [✓](group_anagrams.cpp) | [✓](group_anagrams.py) | Array, Hash Table, String, Sorting |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [✓](spiral_matrix.cpp) | [✓](spiral_matrix.py) | Array, Matrix, Simulation |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [✓](jump_game.cpp) | [✓](jump_game.py) | Array, Greedy, Dynamic Programming |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [✓](length_of_last_word.cpp) | [✓](length_of_last_word.py) | String |
